@@ -1,0 +1,43 @@
+
+
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+
+  width: 100%;
+  height: 100%;
+  
+}
+
+.container{
+
+  width: 100%;
+  height: 110%;
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ align-items: center;
+ background-color: rgb(211, 224, 252);
+ 
+}
+
+#topimg{
+
+  width: 70%;
+ height: 180px;
+}
+
+h5{
+
+  position: relative;
+   right: 230px;
+   font-size: 13px; 
+   font-weight: 700;
+   color: rgb(107, 105, 105);
+   
+}
